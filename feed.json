@@ -1,0 +1,15 @@
+{
+    "items": [
+        {
+            "id": "welcome-beta",
+            "kind": "news",
+            "title": "WELCOME TO THE DEAD DECK BETA",
+            "body": "You made it in. Thank you for being one of the first players in Dead Deck.\n\nThis is an early build: over 60 death games, the multiplayer party matches, the Dead Deck Pass, missions and the store are all live. Some things will break, and some games will be too easy or far too deadly. That's what the beta is for.\n\nSTORY MODE will not be available until the final release. We're finishing every chapter so it's worth the wait.\n\nPlay with friends, try every suit, and tell us what you think. New games and fixes are coming throughout the beta. Watch this NEWS tab for updates.\n\nGood luck. Don't die.",
+            "image": "https://samuelbempah.github.io/deaddeck-news/img/welcome_beta.jpg",
+            "link": "",
+            "linkLabel": "",
+            "version": "",
+            "date": "2026-10-23T12:00:00Z"
+        }
+    ]
+}
